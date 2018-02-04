@@ -1,0 +1,44 @@
+QPushButton{
+border-radius: 9px;
+border: 2px solid rgb(255,0, 0);
+background:transparent;
+color:black;
+
+ }
+QPushButton_2{
+border-radius: 9px;
+border: 2px solid rgb(255,0, 0);
+background:transparent;
+color:black;
+
+ }
+QPushButton:hover{
+background: #80FFFF;
+}
+QPushButton_2:hover{
+background: #80FFFF;
+}
+QLabel{
+border-radius: 9px;
+border: 2px solid rgb(255,0, 0);
+background:transparent;
+color:black;
+}
+
+QLabel_2{
+border-radius: 9px;
+border: 2px solid rgb(255,0, 0);
+background:transparent;
+color:black;
+}
+QLabel_3{
+border-radius: 9px;
+border: 2px solid rgb(255,0, 0);
+background:transparent;
+color:black;
+}
+QDialog{
+color :white;
+}
+
+
